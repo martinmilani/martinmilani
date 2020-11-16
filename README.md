@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matirn</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A frontend web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinmilani&label=Profile%20views&color=0e75b6&style=flat" alt="martinmilani" /> </p>
 
@@ -17,8 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/martinmilani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="martinmilani" height="30" width="40" /></a>
+<a href="martin.milani.mdq@gmail.com" target="blank"><img align="center" src="https://cdn.onlinewebfonts.com/svg/img_237869.png" alt="martin-milani-mdq" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/martin-milani-mdq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martin-milani-mdq" height="30" width="40" /></a>
+<a href="https://codepen.io/martinmilani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="martinmilani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
