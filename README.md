@@ -17,9 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="martin.milani.mdq@gmail.com" target="blank"><img align="center" src="https://cdn.onlinewebfonts.com/svg/img_237869.png" alt="martin-milani-mdq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/martin-milani-mdq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martin-milani-mdq" height="30" width="40" /></a>
-<a href="https://codepen.io/martinmilani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="martinmilani" height="30" width="40" /></a>
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/martinmilani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/martin-milani-mdq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://martinmilani.github.io/)  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
