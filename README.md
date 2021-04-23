@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Vue Calculator**
+- 🔭 I’m currently working on **Vue ecommerce**
 
 - 🌱 I’m currently learning **Vue**
 
