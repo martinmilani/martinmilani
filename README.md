@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://martinmilani.github.io/](https://martinmilani.github.io/)
 
-- 💬 Ask me about **react, javascript, html, css**
+- 💬 Ask me about **react, vue, javascript, html, css**
 
 - 📫 How to reach me **martin.milani.mdq@gmail.com**
 
