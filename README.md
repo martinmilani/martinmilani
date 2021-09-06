@@ -3,9 +3,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Vue ecommerce**
+- 🔭 I’m currently working on **Angular Wallet**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Open Source Proyects**
 
